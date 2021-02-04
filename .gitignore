@@ -11,3 +11,5 @@
 .DS_Store
 npm-debug.log*
 
+#CONFIG
+config/env.js
